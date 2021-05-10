@@ -126,11 +126,10 @@ You may use some charting lib like [chartjs](https://www.chartjs.org/samples/lat
 
 ## Assignment Submission
 
-Candidates should NOT fork the assignment as this will be visible/trackable by other candidates.
-Clone it locally and then push it to your own account on any git host (github, bitbucket, etc.).
+When you are done with the assigment please create branch with named as `assignment` and create a Pull Request for master also update the README file describing your solution.
 
-Send email to dspanos@dialecticanet.com with a link to your repo.
-If your repo is not public, send a collaboration invite to same email.
+Please when you are ready just reply on the assigment email in order to review you Pull Request.
+Please not that, during the revuew, the reviewer can leave comments for you to answer so be alerted for any comments.
 
 <br />
 <br />
